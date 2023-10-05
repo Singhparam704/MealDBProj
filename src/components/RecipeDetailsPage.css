@@ -1,0 +1,32 @@
+.container {
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.row .col-md-6 {
+    display: flex;
+    flex-direction: column;
+}
+
+.img-fluid {
+    max-width: 100%;
+}
+
+ul.list-group {
+    margin-top: 20px;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
